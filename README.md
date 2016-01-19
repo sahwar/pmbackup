@@ -10,12 +10,10 @@ This repository includes everything you need to build and modify the backup tool
 It also includes 2 third-party components **for convenience**.
 Please note that these components do **not** fall under the MIT license of this application:
 
-- third party\7za.exe: stand-alone 7-zip archiver windows executable ©Igor Pavlov
-
+- third party\7za.exe: stand-alone 7-zip archiver windows executable ©Igor Pavlov  
   used to provide compressed archives
-- plugins\hpwUtility[nnn].zip: NeoBook plugin required by the application ©H.P.Wickern
-
-  (See the license file inside the zip for more details)
+- plugins\hpwUtility[nnn].zip: NeoBook plugin required by the application ©H.P.Wickern  
+  (See the license file inside the zip for more details)  
   used to read/handle .ini files
 
 ## Building
