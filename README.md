@@ -7,12 +7,16 @@ http://www.palemoon.org/backuptool.shtml
 
 This repository includes everything you need to build and modify the backup tool, with the exception of the RAB this was created in.
 
-It also includes 2 third-party components for convenience. Please note that these components do not fall under the MIT license of this application:
+It also includes 2 third-party components **for convenience**.
+Please note that these components do **not** fall under the MIT license of this application:
 
-- third party\7za.exe: stand-alone 7-zip archiver windows executable ©Igor Pavlovused to provide compressed archives
+- third party\7za.exe: stand-alone 7-zip archiver windows executable ©Igor Pavlov
+
+  used to provide compressed archives
 - plugins\hpwUtility[nnn].zip: NeoBook plugin required by the application ©H.P.Wickern
-(See the license file inside the zip for more details)
-used to read/handle .ini files
+
+  (See the license file inside the zip for more details)
+  used to read/handle .ini files
 
 ## Building
 
