@@ -20,8 +20,8 @@ used to read/handle .ini files
 To build this application:
 
 - Install [NeoBook 5](http://neosoftware.com/nbw.html)
-- Install the hpwUtility plugin inside NeoBook
-- Load the nbp project file
+- Install the hpwUtility plugin (.nbp) inside NeoBook
+- Load the .pub project file
 - Check your path for embedded files to point to the correct path for 7za.exe
 - Run or Compile from within NeoBook
 
